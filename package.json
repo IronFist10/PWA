@@ -1,0 +1,23 @@
+{
+  "name": "wirebase",
+  "version": "1.0.0",
+  "description": "\"# Wirebase\"",
+  "main": "service-worker.js",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronFist10/wirebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronFist10/wirebase/issues"
+  },
+  "homepage": "https://github.com/IronFist10/wirebase#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
