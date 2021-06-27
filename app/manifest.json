@@ -1,7 +1,7 @@
 {
   "name": "Wirebase",
   "short_name": "Wirebsae",
-  "start_url": "index.html",
+  "start_url": "app/index.html",
   "display": "fullscreen",
   "background_color": "#fdfdfd",
   "theme_color": "#09143a",
